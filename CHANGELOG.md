@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.3.1002 - 2025-04-26
+
+- Fix missing `get_cwd_as_binary`.
+
 ## v1.3.1001 - 2025-04-22
 
 - Merge in upstream gleeunit 1.3.0.
