@@ -113,7 +113,7 @@ fn find_matching_test_module_files(test_module_files) {
   })
 }
 
-@external(erlang, "gleeunit_glacier_ffi", "get_cwd_as_binary")
+@external(erlang, "glacier_gleeunit_ffi", "get_cwd_as_binary")
 @external(javascript, "./gleeunit_ffi.mjs", "cwd")
 fn get_cwd() -> String
 
