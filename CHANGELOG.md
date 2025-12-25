@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.3.1003 - 2025-12-25
+
+- Fix `gleeunit_glacier_ffi` ext function name.
+
 ## v1.3.1002 - 2025-04-26
 
 - Fix missing `get_cwd_as_binary`.
